@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://richgwil.github.io/amandasite/sitemap.xml

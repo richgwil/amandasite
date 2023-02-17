@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My first Publii Site",
+    "description": "",
+    "home_page_url": "https://richgwil.github.io/amandasite",
+    "feed_url": "https://richgwil.github.io/amandasite/feed.json",
+    "user_comment": "",
+    "icon": "https://richgwil.github.io/amandasite/media/website/amanda.jpg",
+    "author": {
+        "name": "Gwil"
+    },
+    "items": [
+    ]
+}
